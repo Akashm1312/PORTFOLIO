@@ -4,7 +4,7 @@
  }
 
  .hero-section {
-     background-image: url('./img/banner/AKASH\ PORTFOLIO.avif');
+     background-image: url('./img/banner/1portfolio.jpg');
      background-repeat: no-repeat;
      background-size: cover;
      padding: 200px;
@@ -99,7 +99,7 @@
 .bar span{
    height: 18px;
    float: left;
-   background: #FF00FF;
+   background: hsl(180, 96%, 38%);
 
 }
 .html{
