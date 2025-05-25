@@ -88,7 +88,7 @@ function sendform(){
     var email = document.querySelector('.email').value;
     var text1 = document.querySelector('.text1').value;
 
-    var url = "https://wa.me/" + phnumber + "?text="  
+    var url = "https://api.whatsapp.com/" + phnumber + "?text="  
     + "Name: " + uname+"%0a" 
     + "Mobile: " + mobile+"%0a"
     + "E-mail: " + email+"%0a"
